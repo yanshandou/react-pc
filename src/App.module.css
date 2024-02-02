@@ -1,0 +1,4 @@
+/* 这是一个 CSS 规则集。它将背景颜色设置为半透明的黑色（alpha 值为 0.08）给 class 名为 App 的 HTML 元素 */
+.App {
+	background-color: rgba(0, 0, 0, 0.08);
+}

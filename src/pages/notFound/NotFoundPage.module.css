@@ -1,0 +1,44 @@
+/* NotFoundPage.module.css */
+.NotFoundPage {
+	text-align: center;
+	padding: 50px 0;
+}
+
+.NotFoundPage h1 {
+	font-size: 3rem;
+	margin-bottom: 20px;
+}
+
+.NotFoundPage p {
+	font-size: 1.5rem;
+	margin-bottom: 30px;
+}
+
+.NotFoundPage a {
+	font-size: 1.2rem;
+	color: blue;
+	text-decoration: none;
+}
+
+.NotFoundPage img {
+	max-width: 100%;
+	height: auto;
+}
+
+.homeButton {
+	margin-top: 100px;
+	background-color: #00a0e9; /* 可爱的粉色背景 */
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 20px;
+	font-size: 1rem;
+	cursor: pointer;
+	outline: none;
+	transition: background-color 0.3s, transform 0.2s;
+}
+
+.homeButton:hover {
+	background-color: #1976d2; /* 悬停时的更深的粉色 */
+	transform: scale(1.05); /* 轻微放大 */
+}

@@ -1,0 +1,38 @@
+{
+	"header": {
+		"slogan": "旅行をもっと幸せに",
+		"add_new_language": "新しい言語を追加",
+		"title": "React トラベル",
+		"register": "登録",
+		"signin": "サインイン",
+		"home_page": "ホーム",
+		"weekend": "週末旅行",
+		"group": "グループツアー",
+		"backpack": "バックパッカー",
+		"private": "プライベートツアー",
+		"cruise": "クルーズ",
+		"hotel": "ホテル＆観光",
+		"local": "ローカル体験",
+		"theme": "テーマ旅行",
+		"custom": "カスタムツアー",
+		"study": "留学旅行",
+		"visa": "ビザ",
+		"enterprise": "企業旅行",
+		"high_end": "ハイエンド旅行",
+		"outdoor": "アウトドア",
+		"insurance": "保険",
+		"shoppingCart": "ショッピングカート",
+		"signOut": "サインアウト",
+		"welcome": "おかえりなさい "
+	},
+	"footer": {
+		"detail": "著作権所有 @ React トラベル"
+	},
+	"home_page": {
+		"hot_recommended": "おすすめホット",
+		"new_arrival": "新着",
+		"domestic_travel": "国内旅行おすすめ",
+		"joint_venture": "提携企業",
+		"start_from": "(から始まる)"
+	}
+}
